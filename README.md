@@ -3,7 +3,7 @@
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+  <img src="https://profile-counter.glitch.me/MOElkhateb9/count.svg" />
 </p>
 <!---
 MOElkateb9/MOElkateb9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
