@@ -1,15 +1,22 @@
-- 👋 Hi, I’m @MOElkateb9
+<h1 align="center">👋 Hi, I'm MOElkateb9</h1>
 
+<p align="center">
+  <img src="[https://your-profile-image-url](https://github.com/account)" alt="Profile Picture" width="150" height="150">
+</p>
 
-<div align="center">
-  <a href=#><img src="contributions.svg"></a>
+<p align="center">
+  Welcome to my GitHub profile! I'm excited to share my projects and contributions with you.
+</p>
 
-  <p>
-    Visitor count<br>
-    <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
-  </p> 
-</div>
-<!---
-MOElkateb9/MOElkateb9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I'm currently learning and exploring various technologies.
+- 💬 Ask me about anything related to programming or technology.
+- 📫 You can reach me via email at your@email.com.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MOElkateb9&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MOElkateb9/count.svg" alt="Visitor Count">
+</p>
