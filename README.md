@@ -8,6 +8,12 @@
   Welcome to my GitHub profile! I'm excited to share my projects and contributions with you.
 </p>
 
+<p align="left">
+A data analytics engineer with proven skills in data engineering, business intelligence, data analysis and visualisation.
+ seeking to apply my technical abilities and experience to create data-driven solutions and insights for complex business
+ problems
+</p>
+
 - 📫 You can reach me via email at mobebo2007@gmail.com.
 
 <p align="center">
