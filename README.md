@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mohamed Elkhateb</h1>
+<h1 align="center"> I'm Mohamed Elkhateb</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/166956786?v=4" alt="Profile Picture" width="150" height="150">
