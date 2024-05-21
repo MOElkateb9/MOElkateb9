@@ -4,9 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/166956786?v=4" alt="Profile Picture" width="150" height="150">
 </p>
 
-<p align="center">
-  Welcome to my GitHub profile! I'm excited to share my projects and contributions with you.
-</p>
+
 
 <p align="left">
 A data analytics engineer with proven skills in data engineering, business intelligence, data analysis and visualisation.
