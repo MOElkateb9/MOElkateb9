@@ -18,3 +18,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/MOElkateb9/count.svg" alt="Visitor Count">
 </p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x300?text=Project+Banner" alt="Project Banner">
+</p>
