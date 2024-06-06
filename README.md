@@ -7,7 +7,7 @@
 
 
 <p align="left">
-A data analytics engineer with proven skills in data engineering, business intelligence, data analysis and visualisation.
+A data analytics engineer with proven skills in  business intelligence, data analysis and visualisation.
  seeking to apply my technical abilities and experience to create data-driven solutions and insights for complex business
  problems
 </p>
