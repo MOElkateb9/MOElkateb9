@@ -18,7 +18,7 @@ A data analytics engineer with proven skills in  business intelligence, data ana
  problems
 </p>
 
-- 📫 You can reach me via email at mobebo2007@gmail.com.
+- 📫 You can reach me via email at mohamedelkhateb329@gmail.com.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MOElkateb9&show_icons=true&theme=radical" alt="GitHub Stats">
