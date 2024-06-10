@@ -29,12 +29,10 @@ A data analytics engineer with proven skills in  business intelligence, data ana
   <img src="https://profile-counter.glitch.me/MOElkateb9/count.svg" alt="Visitor Count">
 </p>
 
-<div>
- ### Languages:
- Python | Java | C++ |
-|----------|----------|----------|
-|  <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/62ff2130-9525-400d-ad46-8c83cb7ee851"
- title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="C++" alt="C++" width="55" height="55"/> |  
+### Languages:
+ 
+   <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/62ff2130-9525-400d-ad46-8c83cb7ee851"
+ title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/25c1a934-51d3-4c6e-8a1c-1ecf33562e84" title="C++" alt="C++" width="55" height="55"/> |  
 
-</div>
+
 
