@@ -1,15 +1,14 @@
 <h1 align="center"> I'm Mohamed Elkhateb</h1>
+<h2 align="center"> Data Analyst | BI Developer</h2>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/166956786?v=4" alt="Profile Picture" width="150" height="150">
 </p>
 
 
-<h1 align="center"> Data Analyst||BI Developer</h1>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/166956786?v=4" alt="Profile Picture" width="100" height="120">
-</p>
+
+
 
 
 
