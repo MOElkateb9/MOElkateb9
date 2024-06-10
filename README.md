@@ -32,7 +32,7 @@ A data analytics engineer with proven skills in  business intelligence, data ana
 ### Languages:
  
    <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/62ff2130-9525-400d-ad46-8c83cb7ee851"
- title="java"  alt="java" width="55" height="55"/> |  <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/d0261ccf-e7d1-44ac-986a-0852cd9d107b" title="python"  alt="python" width="55" height="55"/> |  <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/25c1a934-51d3-4c6e-8a1c-1ecf33562e84" title="C++" alt="C++" width="55" height="55"/> |  
+ title="java"  alt="java" width="39" height="39"/> |  <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/d0261ccf-e7d1-44ac-986a-0852cd9d107b" title="python"  alt="python" width="39" height="39"/> |  <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/25c1a934-51d3-4c6e-8a1c-1ecf33562e84" title="C++" alt="C++" width="39" height="39"/> |  
 
 
 
