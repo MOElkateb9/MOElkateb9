@@ -29,3 +29,9 @@ A data analytics engineer with proven skills in  business intelligence, data ana
   <img src="https://profile-counter.glitch.me/MOElkateb9/count.svg" alt="Visitor Count">
 </p>
 
+
+ Python | Java | C++ |
+|----------|----------|----------|-----|
+|  <img src="![java](https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/ebb6cc15-9d31-4173-97cc-84f4ace41380)
+" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="C++" alt="C++" width="55" height="55"/> |  
+
