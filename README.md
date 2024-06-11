@@ -19,7 +19,7 @@ A data analytics engineer with proven skills in  business intelligence, data ana
 </p>
 
 - 📫 You can reach me via email at mohamedelkhateb329@gmail.com
-- <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/4747bc1a-1809-42c9-bbb9-a618412cbae6" alt="WhatsApp QR Code" width="20" height="20">  +0201064810788  
+- <img src="https://github.com/MOElkateb9/Sales-Data-Analysis-Project/assets/166956786/4747bc1a-1809-42c9-bbb9-a618412cbae6" alt="WhatsApp QR Code" width="20" height="20">  +201064810788  
 - [my resume](https://drive.google.com/file/d/1JVd7n1OXoIhWnygWKM165iLnwUpVlhdy/view?usp=drive_link)   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MOElkateb9&show_icons=true&theme=radical" alt="GitHub Stats">
